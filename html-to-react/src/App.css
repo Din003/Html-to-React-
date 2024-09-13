@@ -1,0 +1,8 @@
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  /*background-image: url("http://www.w3schools.com/w3images/mac.jpg");*/
+  /*background-image: url("/w3images/mac.jpg");*/
+  background-image: url("./img/MT.jpg");
+  min-height: 800px;
+}
